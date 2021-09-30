@@ -12,12 +12,12 @@ packages:
   original:
     hackage: containers-0.5.10.2
 - completed:
-    hackage: binary-0.7.6.0@sha256:785230ecd3e9da87344c8f263b3410934f71cb669bc6f511ec8c1cda8393f246,4437
+    hackage: binary-0.8.9.0@sha256:9cac9a1d86bfa3e7f75cc8bffaa256f3967ebb6d76f67a42f9679384c5c5e18a,6523
     pantry-tree:
-      size: 1654
-      sha256: 8483b84bec858208eaffb0a4138753c324eca5870d9c6cfd67c9741918efdcf7
+      size: 1976
+      sha256: 61308af6be2cdb6ba09390d35f3fa1ebb45e3af688bf04922658532398eaa276
   original:
-    hackage: binary-0.7.6.0
+    hackage: binary-0.8.9.0
 snapshots:
 - completed:
     size: 535699
